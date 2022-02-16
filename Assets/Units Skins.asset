@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70123802b48070b489974d08254e6797, type: 3}
+  m_Name: Units Skins
+  m_EditorClassIdentifier: 
+  _unitsSkins:
+  - UnitSkin: {fileID: 8162425908517154904, guid: 4317818d959ac54409e81fed61d00033,
+      type: 3}
+    Animations:
+      Attack: 2
+      Idle: 0
+      Run: 1
+    _levels: 0100000002000000
+  - UnitSkin: {fileID: 4684726642743245292, guid: a24bc4ea7be620b428bf7aca090f277a,
+      type: 3}
+    Animations:
+      Attack: 3
+      Idle: 0
+      Run: 1
+    _levels: 0300000004000000
+  - UnitSkin: {fileID: 6005442262507051580, guid: f39b6dd911002a8489dd74814677438a,
+      type: 3}
+    Animations:
+      Attack: 2
+      Idle: 0
+      Run: 1
+    _levels: 0500000006000000
+  - UnitSkin: {fileID: 7398913897685099312, guid: 842973a2b2791454fbfca2c7a6b70f40,
+      type: 3}
+    Animations:
+      Attack: 2
+      Idle: 0
+      Run: 1
+    _levels: 0700000008000000
+  - UnitSkin: {fileID: 6173794812649417346, guid: 3865530702732294a8c047c0c8b2b17e,
+      type: 3}
+    Animations:
+      Attack: 2
+      Idle: 0
+      Run: 1
+    _levels: 090000000a0000000b000000
